@@ -1,7 +1,7 @@
 package EdgeDetection;
 
 
-public class ImageProcessor {
+public class SobelImageProcessor {
     public static final boolean GRAYSCALE = true;
     public static final boolean COLORED = false;
 
