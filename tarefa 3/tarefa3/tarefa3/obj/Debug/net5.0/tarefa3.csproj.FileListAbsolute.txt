@@ -1,0 +1,16 @@
+C:\Users\Anderson\Desktop\Metodos 2\implementacoesmetodosii\tarefa 3\tarefa3\tarefa3\bin\Debug\net5.0\tarefa3.exe
+C:\Users\Anderson\Desktop\Metodos 2\implementacoesmetodosii\tarefa 3\tarefa3\tarefa3\bin\Debug\net5.0\tarefa3.deps.json
+C:\Users\Anderson\Desktop\Metodos 2\implementacoesmetodosii\tarefa 3\tarefa3\tarefa3\bin\Debug\net5.0\tarefa3.runtimeconfig.json
+C:\Users\Anderson\Desktop\Metodos 2\implementacoesmetodosii\tarefa 3\tarefa3\tarefa3\bin\Debug\net5.0\tarefa3.runtimeconfig.dev.json
+C:\Users\Anderson\Desktop\Metodos 2\implementacoesmetodosii\tarefa 3\tarefa3\tarefa3\bin\Debug\net5.0\tarefa3.dll
+C:\Users\Anderson\Desktop\Metodos 2\implementacoesmetodosii\tarefa 3\tarefa3\tarefa3\bin\Debug\net5.0\ref\tarefa3.dll
+C:\Users\Anderson\Desktop\Metodos 2\implementacoesmetodosii\tarefa 3\tarefa3\tarefa3\bin\Debug\net5.0\tarefa3.pdb
+C:\Users\Anderson\Desktop\Metodos 2\implementacoesmetodosii\tarefa 3\tarefa3\tarefa3\obj\Debug\net5.0\tarefa3.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\Metodos 2\implementacoesmetodosii\tarefa 3\tarefa3\tarefa3\obj\Debug\net5.0\tarefa3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\Metodos 2\implementacoesmetodosii\tarefa 3\tarefa3\tarefa3\obj\Debug\net5.0\tarefa3.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\Metodos 2\implementacoesmetodosii\tarefa 3\tarefa3\tarefa3\obj\Debug\net5.0\tarefa3.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\Metodos 2\implementacoesmetodosii\tarefa 3\tarefa3\tarefa3\obj\Debug\net5.0\tarefa3.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Metodos 2\implementacoesmetodosii\tarefa 3\tarefa3\tarefa3\obj\Debug\net5.0\tarefa3.dll
+C:\Users\Anderson\Desktop\Metodos 2\implementacoesmetodosii\tarefa 3\tarefa3\tarefa3\obj\Debug\net5.0\ref\tarefa3.dll
+C:\Users\Anderson\Desktop\Metodos 2\implementacoesmetodosii\tarefa 3\tarefa3\tarefa3\obj\Debug\net5.0\tarefa3.pdb
+C:\Users\Anderson\Desktop\Metodos 2\implementacoesmetodosii\tarefa 3\tarefa3\tarefa3\obj\Debug\net5.0\tarefa3.genruntimeconfig.cache
