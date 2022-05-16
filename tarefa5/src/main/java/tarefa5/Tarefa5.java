@@ -5,11 +5,10 @@ import java.util.function.BiFunction;
 public class Tarefa5 {
     public static void main(String args[]) {
 
-        System.out.println("x^4+cos(x)");
         System.out.println("Gauss legendre");
 
-        float xi = 2;
-        float xf = 3;
+        float xi = 0;
+        float xf = 1;
         System.out.println("2 pontos");
         iterate(xi, xf, GaussLegendre::twopoints);
         System.out.println("3 pontos");
@@ -21,25 +20,25 @@ public class Tarefa5 {
 
     private static void iterate(float xi, float xf, BiFunction<Float, Float, Float> function) {
 
-        float error = 100f;
-        float epsilon = 10E-4f;
+        float error = Float.MAX_VALUE;
+        float epsilon = 0.00001f;
         int iterations = 1;
-        float nv = function.apply(xi, xf);
-        System.out.println("Resultado é" + nv);
+        float nv = Float.MAX_VALUE;
+        int itcount = 0;
         while (error > epsilon) {
             float ov = nv;
-            iterations = iterations * 2;
             nv = 0;
-            float delta = (xi - xf) / iterations;
-            int itcount = 0;
+            float delta = (xf - xi) / (float) iterations;
             for (int x = 0; x < iterations; x++) {
-                float initial = xi + x * delta;
+                float initial = xi + (x * delta);
                 float ending = initial + delta;
-                nv += ((ending - initial) / 2) * function.apply(xi, xf);
-                itcount++;
+                nv += function.apply(initial, ending);
             }
-            error = (Math.abs(ov - nv) / nv);
-            System.out.println("Numero de iterações = " + itcount);
+            iterations *= 2;
+            itcount++;
+            error = ((float) Math.abs(nv - ov) / (float) nv);
         }
+        System.out.println("Valor " + nv);
+        System.out.println("Numero de iterações = " + itcount);
     }
 }
